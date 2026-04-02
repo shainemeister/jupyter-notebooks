@@ -4,6 +4,7 @@
 # Data files
 *.csv
 *.xlsx
+*.zip
 
 # Python
 __pycache__/
